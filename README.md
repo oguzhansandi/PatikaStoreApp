@@ -1,3 +1,5 @@
+<img src="https://github.com/oguzhansandi/PatikaStoreApp/assets/68343552/be85b4d4-23a9-40e8-9db6-806f7403c335" alt="selected-pic" width="500" height="300">
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
